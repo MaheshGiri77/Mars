@@ -1,7 +1,1 @@
 hello
-<<<<<<< HEAD
-testing push form another side
-=======
-testing push conflict on one side
->>>>>>> 23336260ee17c237ce177283a3c9cd804ce1238a
-password
